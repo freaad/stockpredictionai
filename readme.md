@@ -1495,9 +1495,7 @@ plot_prediction('Final result.')
 
 - Next, I will try to create a RL environment for testing trading algorithms that decide when and how to trade. The output from the GAN will be one of the parameters in the environment.
 
-# About me <a class="anchor" id="me"></a>
 
-www.linkedin.com/in/borisbanushev
 
 # Disclaimer <a class="anchor" id="disclaimer"></a>
 
@@ -1509,5 +1507,4 @@ www.linkedin.com/in/borisbanushev
 
 Thanks for reading.
 
-Best,
-Boris
+
